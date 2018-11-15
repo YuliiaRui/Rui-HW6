@@ -1,0 +1,65 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.card {
+    border: 3px solid gray;
+}
+
+li {
+    margin: 1%;
+    float: right;
+    list-style: none;
+    text-align: -webkit-center;
+}
+
+.fon_foto {
+    background-image: url("img/background.png");
+    position: absolute;
+    width: 960px;
+    height: auto;
+}
+
+.logo {
+    position: absolute;
+    margin: 10% 0 0 7%;
+}
+
+.palm {
+    position: absolute;
+    margin: 4% 17%;
+}
+
+.info {
+    position: absolute;
+    color: white;
+    margin: 12% 12%;
+}
+
+.container {
+    width: 68%;
+    padding: 14% 0;
+    position: relative;
+}
+
+.contact {
+    line-height: 1px;
+    position: absolute;
+    color: white;
+    margin: 10% 57%;
+    width: max-content;
+}
+
+.name {
+    color: white;
+    text-align: center;
+    margin: 0.5%;
+    width: fit-content;
+}
+
+.futer {
+    margin: 35% 27%;
+    position: relative;
+    color: white;
+}
